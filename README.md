@@ -54,7 +54,7 @@ A web page that renders test cases dynamically from a PostgreSQL database table 
 
 ## Screenshots
 
-! [Database before adding a new testcase](before.png)
+! [Database before adding a new testcase](C:\Users\afsha\OneDrive\Desktop\Full Stack\after.png)
 *Database before adding a new testcase
 
 
